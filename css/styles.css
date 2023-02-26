@@ -319,6 +319,7 @@ img {
 	padding: 32px 16px;
 	border: 1px solid var(--third-accent-color);
 	border-top: 0;
+	background-color: var(--main-color);
 }
 
 .img-list {
