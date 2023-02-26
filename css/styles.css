@@ -64,6 +64,9 @@ p {
 }
 
 /* Header */
+.navigation{
+	border-bottom: 1px solid #E7E9FC;
+}
 .header-inner {
 	display: flex;
 	align-items: center;
